@@ -25,7 +25,7 @@ public class Horario {
         this.diaSemana = diaSemana;
         this.horaInicio = horaInicio;
         this.horaFim = horaFim;
-        this.turno = turno
+        this.turno = turno;
     }
 
     public int getId() {

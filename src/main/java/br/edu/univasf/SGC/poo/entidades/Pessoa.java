@@ -52,4 +52,11 @@ public abstract class Pessoa {
     public void setTelefone(String telefone) {
         this.telefone = telefone;
     }
+
+    public Perfil getPerfil() {
+        return perfil;
+    }
+    public void setPerfil(Perfil perfil) {
+        this.perfil = perfil;
+    }
 }
